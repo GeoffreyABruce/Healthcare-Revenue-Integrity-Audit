@@ -28,5 +28,5 @@ Developed an interactive dashboard to visualize the audit findings for stakehold
 ## How to Navigate This Repository
 * **`Healthcare_Audit.sql`**: Contains the full detection, summary, and geographic correlation queries used in the audit.
 * **`Healthcare_Audit_Results.xlsx`**: The refined dataset generated via SQL, serving as the data source for the Power BI dashboard.
-* **`Unathorized_Claims_Analysis_Dashboard.pbix`**: The source Power BI file for interactive exploration.
-* **`Unathorized_Claims_Analysis_Dashboard.png`**: High-resolution screenshot of the final audit report.
+* **`Unauthorized_Claims_Analysis_Dashboard.pbix`**: The source Power BI file for interactive exploration.
+* **`Unauthorized_Claims_Analysis_Dashboard.png`**: High-resolution screenshot of the final audit report.
