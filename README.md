@@ -9,7 +9,7 @@ This project involved a comprehensive financial and data integrity audit of an e
 * **Temporal Surge:** Analysis revealed a significant surge in unauthorized activity during **January and February**, indicating a potential seasonal failure in reporting protocols or data entry.
 
 ## Dashboard Preview
-![Healthcare Audit Dashboard](Unathorized_Claims_Analysis_Dashboard.png)
+![Healthcare Audit Dashboard](Unauthorized_Claims_Analysis_Dashboard.png)
 
 ## Technical Implementation
 
@@ -27,5 +27,6 @@ Developed an interactive dashboard to visualize the audit findings for stakehold
 
 ## How to Navigate This Repository
 * **`Healthcare_Audit.sql`**: Contains the full detection, summary, and geographic correlation queries used in the audit.
+* **`Healthcare_Audit_Results.xlsx`**: The refined dataset generated via SQL, serving as the data source for the Power BI dashboard.
 * **`Unathorized_Claims_Analysis_Dashboard.pbix`**: The source Power BI file for interactive exploration.
 * **`Unathorized_Claims_Analysis_Dashboard.png`**: High-resolution screenshot of the final audit report.
